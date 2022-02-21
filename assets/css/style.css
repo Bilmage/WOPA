@@ -890,11 +890,11 @@ End of Partner section
 Start of footer [*12]
 -------------------------------------------------------------------------*/
 .footer-style {
-	background-image: url(../img/footer-bg.jpg);
+	background-image: url(../img/annie-spratt.jpg);
 	position: relative;
 }
 .footer-overlay {
-	background-color: rgba(1, 11, 35, 0.9);
+	background-color: #35495E;
 }
 .footer-contact-content-1 {
 	padding: 30px 0px 15px 0px;
